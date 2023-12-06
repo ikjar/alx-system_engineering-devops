@@ -1,1 +1,1 @@
-My shell_basics project from ALX program.
+shell_basics
